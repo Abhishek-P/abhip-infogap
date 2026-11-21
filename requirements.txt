@@ -23,7 +23,7 @@ exceptiongroup==1.2.2
 executing==2.1.0
 fake-useragent==2.0.3
 filelock==3.16.1
--e git+https://github.com/smfsamir/flowmason@5398a670ff138494eba7e6647e9a22ce36b9a16b#egg=flowmason
+-e git+https://github.com/smfsamir/flowmason@1f1c98108597f3a21a5c396b7b3da2c0f43d7d39#egg=flowmason
 fonttools==4.56.0
 fsspec==2024.12.0
 h11==0.14.0
